@@ -32,5 +32,8 @@ olá eu sou o lucas campos
 
 ##
 <div> 
- 
+ <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/tencampos/count.svg" /></p>
+</div>
+![snake gif](https://github.com/tencampos/tencampos/blob/output/github-contribution-grid-snake.svg)
+<div>
 </div>
