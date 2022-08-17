@@ -2,7 +2,8 @@ olá eu sou o lucas campos
 - 🔭 Hoje trabalho com Front-End
 - 🌱 estudando React
 - 📫 contato: devlucreis@outlook.com
-<div style="display = inline-block"><br>
+
+<div align = "center"><br>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <div align="center" display=inline>
   <a href="https://github.com/tencampos">
