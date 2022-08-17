@@ -3,7 +3,7 @@ olá eu sou o lucas campos
 - 🌱 estudando React
 - 📫 contato: devlucreis@outlook.com
 
-<div display="inline-block"><br>
+<div display="inline-block" align-itens="center"><br>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <div display="flex" align-itens="center" >
   <a href="https://github.com/tencampos">
